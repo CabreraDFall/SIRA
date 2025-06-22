@@ -1,2 +1,11 @@
-# SIRA
-Plataforma de reservas con roles y sin registro para clientes. Simple, rápida y bajo control.
+# SIRA – Sistema Inteligente de Reservas y Agendas
+
+**SIRA** es una plataforma web para la gestión interna de reservas, citas y agendas. Diseñada para equipos con diferentes roles (como administradores y empleados), permite a los clientes reservar sin necesidad de registrarse, enfocándose en la simplicidad, rapidez y control interno.
+
+## 🚀 Características
+
+- Gestión de agendas, horarios y disponibilidad por usuario
+- Roles de usuario: administrador y empleado
+- Reservas sin necesidad de registro para el cliente
+- Interfaz simple, rápida y enfocada en productividad
+- Pensado para uso interno en negocios, clínicas, talleres, etc.

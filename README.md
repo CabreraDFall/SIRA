@@ -14,7 +14,7 @@
 ### Preguntas Frecuentes
 
 <details>
-<summary>Click to toggle contents of `code`</summary>
+<summary>¿Cuando inicia el proyecto?</summary>
 
 ```
 Inicio del proyecto: 25, jun 2025

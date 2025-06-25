@@ -16,9 +16,8 @@
 | ---------------------------------------------------- | ---------------- |
 | <input type="checkbox" disabled checked /> UI/UX     |                  |
 | <input type="checkbox" disabled checked /> dB schema |                  |
-
-| <input type="checkbox" disabled /> FrontEnd | |
-| <input type="checkbox" disabled /> Backend | |
+| <input type="checkbox" disabled /> FrontEnd          |                  |
+| <input type="checkbox" disabled /> Backend           |                  |
 
 ### Preguntas Frecuentes
 

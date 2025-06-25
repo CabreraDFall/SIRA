@@ -9,3 +9,15 @@
 - Reservas sin necesidad de registro para el cliente
 - Interfaz simple, rápida y enfocada en productividad
 - Pensado para uso interno en negocios, clínicas, talleres, etc.
+-
+
+### Preguntas Frecuentes
+
+<details>
+<summary>Click to toggle contents of `code`</summary>
+
+```
+Inicio del proyecto: 25, jun 2025
+```
+
+</details>

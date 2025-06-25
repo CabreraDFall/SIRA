@@ -9,7 +9,16 @@
 - Reservas sin necesidad de registro para el cliente
 - Interfaz simple, rápida y enfocada en productividad
 - Pensado para uso interno en negocios, clínicas, talleres, etc.
--
+
+### Etapas del proyecto
+
+| SIRA                                                 | fecha de Entrega |
+| ---------------------------------------------------- | ---------------- |
+| <input type="checkbox" disabled checked /> UI/UX     |                  |
+| <input type="checkbox" disabled checked /> dB schema |                  |
+
+| <input type="checkbox" disabled /> FrontEnd | |
+| <input type="checkbox" disabled /> Backend | |
 
 ### Preguntas Frecuentes
 

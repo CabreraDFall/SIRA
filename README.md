@@ -10,22 +10,61 @@
 - Interfaz simple, rápida y enfocada en productividad
 - Pensado para uso interno en negocios, clínicas, talleres, etc.
 
-### Etapas del proyecto
-
-| SIRA                                                 | fecha de Entrega |
-| ---------------------------------------------------- | ---------------- |
-| <input type="checkbox" disabled checked /> UI/UX     |                  |
-| <input type="checkbox" disabled checked /> dB schema |                  |
-| <input type="checkbox" disabled /> FrontEnd          |                  |
-| <input type="checkbox" disabled /> Backend           |                  |
-
-### Preguntas Frecuentes
+### Cronograma General del Proyecto – SIRA (25 junio – 25 julio)
 
 <details>
-<summary>¿Cuando inicia el proyecto?</summary>
+<summary>Fase 1 – Diseño y Fundamentos (25 junio – 4 julio)</summary>
 
 ```
-Inicio del proyecto: 25, jun 2025
+-Definición de requerimientos funcionales y técnicos.
+- Diseño UX/UI (wireframes y flujo de usuario).
+- Modelado de base de datos.
+- Setup del entorno:
+  - Frontend (React + Tailwind)
+  - Backend (Node.js + Express)
+  - Base de datos (PostgreSQL)
+- Autenticación con roles: administrador y empleado.
+
 ```
 
 </details>
+
+<details>
+<summary>Fase 2 – Funcionalidad Principal (5 julio – 14 julio)</summary>
+
+```
+- Módulo de agendas: horarios y disponibilidad por usuario.
+- Sistema de reservas sin login para clientes.
+- Validaciones y lógica para evitar conflictos.
+- Panel de control para empleados y administradores.
+- Notificaciones o confirmaciones por email (opcional).
+
+```
+
+</details>
+
+<details>
+<summary>Fase 3 – Integración, Pruebas y Deploy (15 julio – 25 julio)</summary>
+
+```
+- Refinamiento de la interfaz.
+- Pruebas unitarias y de integración.
+- Medidas de seguridad (validación, XSS, sanitización).
+- Documentación técnica y manual de usuario.
+- Deploy:
+  - Backend: Vercel
+  - Frontend: Vercel
+  - DB: Supabase
+
+```
+
+</details>
+
+> Stack Tecnológico
+
+- **Frontend:** React, Vite
+- **Backend:** Node.js, Express
+- **Base de Datos:** PostgreSQL
+- **Auth:** JWT
+- **Testing:** Jest
+- **Deploy:** Vercel, Supabase

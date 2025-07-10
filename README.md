@@ -20,7 +20,7 @@
 - Diseño UX/UI (wireframes y flujo de usuario).
 - Modelado de base de datos.
 - Setup del entorno:
-  - Frontend (React + Tailwind)
+  - Frontend (React)
   - Backend (Node.js + Express)
   - Base de datos (PostgreSQL)
 - Autenticación con roles: administrador y empleado.

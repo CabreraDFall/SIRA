@@ -1,10 +1,16 @@
-import React from 'react'
-import Sidebar from '../../../components/sidebar/Sidebar'
+import "./offline-template.css";
+import React from "react";
 
 function OfflineTemplate({ children }) {
     return (
         <div className="offline-template">
-            <Sidebar />
+            <div className="menu">
+                <div className='logo'>
+                    <h3>
+                        SIRA
+                    </h3>
+                </div>
+            </div>
             <div>{children}</div>
         </div>
     )

@@ -4,3 +4,125 @@
   box-sizing: border-box;
   font-family: "Dm Sans", sans-serif;
 }
+
+
+:root {
+  --black-1: #ffffff;
+  --black-2: #fdfdfd;
+  --black-3: #f6f5f7;
+  --black-4: #f1f0f2;
+  --black-5: #dddadf;
+  --black-6: #c6c1ca;
+  --black-7: #988fa0;
+  --black-8: #6a5d75;
+  --black-9: #584964;
+  --black-10: #3c2b4b;
+  --black-11: #352444;
+  --black-12: #2c1a3c;
+  --black-13: #1a062b;
+}
+
+
+h1-b {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 700;
+  font-size: 61.04px;
+  line-height: 120%;
+}
+
+h1-m {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  font-size: 61.04px;
+  line-height: 120%;
+}
+
+h1 {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 61.04px;
+  line-height: 120%;
+}
+
+h2-b {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 700;
+  font-size: 48.83px;
+  line-height: 120%;
+}
+
+h2-m {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  font-size: 48.83px;
+  line-height: 120%;
+}
+
+h2 {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 48.83px;
+  line-height: 120%;
+}
+
+h3-m {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  font-size: 39.06px;
+  line-height: 120%;
+}
+
+h3 {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 39.06px;
+  line-height: 120%;
+}
+
+h4 {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 31.25px;
+  line-height: 120%;
+}
+
+h5 {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 25.01px;
+  line-height: 120%;
+}
+
+.cap {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+}
+
+.body {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 120%;
+}
+
+.body-m {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 120%;
+}
+
+.small {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 120%;
+}
+.small-m {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  font-size: 12.8px;
+  line-height: 120%;
+}

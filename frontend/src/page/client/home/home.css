@@ -1,0 +1,13 @@
+.expert-details {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+.expert-info {
+    display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
